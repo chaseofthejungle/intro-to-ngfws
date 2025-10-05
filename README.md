@@ -36,3 +36,7 @@ Five categories of firewalls include:
 <hr />
 
 ## 4. <a name="supplemental">Supplemental Resources</a>
+
+* *[Palo Alto Next Generation Firewalls Official Webpage](https://www.paloaltonetworks.com/network-security/next-generation-firewall)*
+* *[Fortinet Next Generation Firewalls Official Webpage](https://www.fortinet.com/products/next-generation-firewall)*
+* *[SonicWall Firewalls Official Webpage](https://www.sonicwall.com/products/firewalls)*
