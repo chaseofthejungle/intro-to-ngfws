@@ -7,7 +7,8 @@
 1. [Five Categories of Firewalls](#categories)
 2. [NGFW Definition and Features](#definition)
 3. [Advantages Over Traditional Firewalls](#advantages)
-4. [Supplemental Resources](#supplemental)
+4. [Comparing Three Vendors: Palo Alto, Fortinet, Sophos](#comparison)
+5. [Supplemental Resources](#supplemental)
 
 <hr />
 
@@ -35,7 +36,11 @@ Five categories of firewalls include:
 
 <hr />
 
-## 4. <a name="supplemental">Supplemental Resources</a>
+## 4. <a name="comparison">Comparing Three Vendors: Palo Alto, Fortinet, Sophos</a>
+
+<hr />
+
+## 5. <a name="supplemental">Supplemental Resources</a>
 
 * *[Palo Alto Next Generation Firewalls Official Webpage](https://www.paloaltonetworks.com/network-security/next-generation-firewall)*
 * *[Fortinet Next Generation Firewalls Official Webpage](https://www.fortinet.com/products/next-generation-firewall)*
