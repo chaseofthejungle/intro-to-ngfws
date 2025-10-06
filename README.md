@@ -30,10 +30,22 @@
 
 ## 2. <a name="definition">NGFW Definition and Features</a>
 
+(TODO)
+
 <hr />
 
 ## 3. <a name="advantages">Advantages Over Traditional Firewalls</a>
 
+Next-Generation Firewall (NGFWs) have more powerful and diverse features than older standard firewalls: while those firewalls have stateful inspection capabilities for both incoming and outgoing traffic, NGFWs include some integrations as intrusion detection and prevention, threat-intelligence (including from cloud sources), and app control and awareness.
+
+Simply put, older firewalls statefully inspect inward and outwrd traffic, rely on admin-configured rules to filter traffic, and provide access control by allowing and denying traffic (based on protocols, ports, and states). While NGFWs also do these things, they have significant additional features:
+
+* The blocking of sophisticated contemporary attacks, such as app-layer threats and complex malware.
+* Immediate consultation of industry-renowned threat intelligence sources, and other means of combating advanced security threats.
+* Directly-integrated Intrusion Prevent Systems (IPSes).
+* App control and awareness (so that problematic apps can be quickly identified and denied access).
+* Upgrade paths that account for future security threats and info feeds.
+  
 <hr />
 
 ## 4. <a name="comparison">Comparing Four Vendors: Palo Alto, Fortinet, SonicWall, Sophos</a>
