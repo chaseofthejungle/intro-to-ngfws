@@ -7,7 +7,7 @@
 1. [Five Categories of Firewalls](#categories)
 2. [NGFW Definition and Features](#definition)
 3. [Advantages Over Traditional Firewalls](#advantages)
-4. [Comparing Three Vendors: Palo Alto, Fortinet, Sophos](#comparison)
+4. [Comparing Four Vendors: Palo Alto, Fortinet, SonicWall, Sophos](#comparison)
 5. [Supplemental Resources](#supplemental)
 
 <hr />
@@ -36,15 +36,15 @@
 
 <hr />
 
-## 4. <a name="comparison">Comparing Three Vendors: Palo Alto, Fortinet, Sophos</a>
+## 4. <a name="comparison">Comparing Three Vendors: Palo Alto, Fortinet, SonicWall, Sophos</a>
 
-When comparing *Palo Alto*, *Fortinet*, and *Sophos* firewalls, Palo Alto's may be seen as the luxury choice: their software is easy to find, industry renowned, and highly secure, but purchase and implementation can be costly. Comparatively, Fortinet may be seen as a 'bang for your buck' option, with beginner-friendly usability and high performance at its lighter price point, and Sophos may be a strong option for small-to-medium sized businesses with limited funding and less networking/security expertise. Thus, system complexity, budgeting, and integration/feature needs should be considered if selecting among these three vendors.
+When comparing *Palo Alto*, *Fortinet*, *SonicWall*, and *Sophos* firewalls, Palo Alto's may be seen as the luxury choice: their software is easy to find, industry renowned, and highly secure, but purchase and implementation can be costly. Comparatively, Fortinet may be seen as a 'bang for your buck' option, with beginner-friendly usability and high performance at its lighter price point, SonicWall has value for budget-conscious small-to-medium sized organizations with a need for strong threat detection, and Sophos may also be a strong option for small-to-medium sized businesses with limited funding (plus it has the advantage of requiring less networking/security expertise than some other options). Thus, system complexity, budgeting, and integration/feature needs should be considered if selecting among these three vendors.
 
-| *Consideration* | *Palo Alto* | *Fortinet* | *Sophos* |
-| :---: | :---: | :----: | :----: |
-| Target Audience | Large organizations needing complex, deeply-integrated security and high app visibility. | Budget-conscious organizations with considerable system integration and high performance needs. | Small-to-medium sized organizations with limited budgets and resources, and possibly less expertise. |
-| Advantages | Zero-day threat and other malware detection and prevention (WildFire), threat and incident response (Unit 42), characteristic-based app identification (App-ID). | Potential for quickly integrating security device (using Security Fabric platform), strong performance, and organized threat intelligence and incident response (FortiGuard Labs research). | Sophos Central provides beginner-friendly management interface. Less expensive than other options, yet has high availability. |
-| Disadvantages | Expensive, may need expertise for advanced configurations, may require support for implementations and learning of centralized management platform. | Possible licensing needs for complex features, logging can be limited in comparison to other options. | Capacity for advanced configurations may be limited, and may not be a good fit for larger organization's needs (in comparison to Palo Alto's complex features and Fortinet's Security Fabric). |
+| *Consideration* | *Palo Alto* | *Fortinet* | *SonicWall* | *Sophos* |
+| :---: | :---: | :----: | :----: | :----: |
+| Target Audience | Large organizations needing complex, deeply-integrated security and high app visibility. | Budget-conscious organizations with considerable system integration and high performance needs. | Budget-conscious and small organizations in need of a solution with strong threat detection capability. | Small-to-medium sized organizations with limited budgets and resources, and possibly less expertise. |
+| Advantages | Zero-day threat and other malware detection and prevention (WildFire), threat and incident response (Unit 42), characteristic-based app identification (App-ID). | Potential for quickly integrating security device (using Security Fabric platform), strong performance, and organized threat intelligence and incident response (FortiGuard Labs research). | Low cost, excellent threat detection, highly unlikely to register false positives (as tested by ICSA Labs). | Sophos Central provides beginner-friendly management interface. Less expensive than other options, yet has high availability. |
+| Disadvantages | Expensive, may need expertise for advanced configurations, may require support for implementations and learning of centralized management platform. | Possible licensing needs for complex features, logging can be limited in comparison to other options. | User interface can be challenging for beginners, may not be as resourceful of an option for enterprises as some other options. | Capacity for advanced configurations may be limited, and may not be a good fit for larger organization's needs (in comparison to Palo Alto's complex features and Fortinet's Security Fabric). |
 
 <hr />
 
